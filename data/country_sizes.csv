@@ -1,0 +1,30 @@
+code,name,EU,area
+AUT,Austria,True,83879
+BEL,Belgium,True,30528
+BGR,Bulgaria,True,110879
+HRV,Croatia,True,56594
+CYP,Cyprus,True,9251
+CZE,Czech Republic,True,78871
+DNK,Denmark,True,42933
+EST,Estonia,True,45227
+FIN,Finland,True,338424
+FRA,France,True,547557
+DEU,Germany,True,357022
+GRC,Greece,True,131957
+HUN,Hungary,True,93028
+IRL,Ireland,True,70273
+ITA,Italy,True,301340
+LVA,Latvia,True,64589
+LTU,Lithuania,True,65300
+LUX,Luxembourg,True,2586
+MLT,Malta,True,316
+NLD,Netherlands,True,41543
+POL,Poland,True,312685
+PRT,Portugal,True,91590
+ROU,Romania,True,238391
+SVK,Slovakia,True,49035
+SVN,Slovenia,True,20273
+ESP,Spain,True,505990
+SWE,Sweden,True,450295
+GBR,United Kingdom,False,243610
+NOR,Norway,False,385207
